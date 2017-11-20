@@ -6,4 +6,7 @@ Ambari service for easily installing and managing Hue on HDP cluster.
 - Ambari 2.2.2+
 
 #### How to deploy?
-please goto (http://wiki.ttxit.com)[Document] see document
+please goto [Document](http://wiki.ttxit.com) see document
+
+#### Bug
+please goto [JIRA](http://jira.ttxit.com/secure/RapidBoard.jspa?rapidView=3&view=planning.nodetail)
